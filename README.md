@@ -14,3 +14,7 @@ python main.py
 
 ## 💻 Application Demonstration
   ![app_demo](demo/demo.gif)
+
+
+## 🛡️LICENSE
+  Project is distributed under [MIT License](LICENSE)
