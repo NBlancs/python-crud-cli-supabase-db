@@ -77,7 +77,7 @@ def sign_up():
     console.print("======== SIGN UP ========\n", style="bold cyan", justify="center")
     email = console.input("[bold cyan]Email: [/bold cyan]")
     print()
-    password = console.input("[bold cyan]Password: [/bold cyan]s")
+    password = console.input("[bold cyan]Password: [/bold cyan]")
     print()
 
 
