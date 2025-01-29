@@ -25,6 +25,8 @@ def clear_terminal():
 
 def auth_menu():
     console.print("======== SUPABASE - AUTH MENU ========\n", style="bold green", justify="center")
+    console.print("Note: When creating a new account verify it first in your email and then try signing-in\n", style="bold green", justify="center")
+
     console.print("1. Sign In\n", style="bold blue")
     console.print("2. Sign Up\n", style="bold cyan")
     console.print("3. Exit\n", style="bold red")
