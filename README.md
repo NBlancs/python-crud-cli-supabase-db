@@ -2,8 +2,11 @@
 
 ## 💻 Setup
 1. Clone the repository
-2. Copy `.env.example` to `.env`
-3. Install dependencies
+ ```bash
+git clone https://github.com/NBlancs/python-crud-cli-supabase-db.git
+```  
+3. Copy `.env.example` to `.env`
+4. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
